@@ -4,12 +4,14 @@ package ex;
  * Date: 2016/09/19
  * Author: 1050210XX 周永振老師
  */
-
-public class ex04_1050210XX {
+import java.util.*;
+public class ex04_105021031 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Scanner src=new Scanner(System.in);
+		int a=src.nextInt();
+		System.out.print(Math.sqrt(a));
 	}
 
 }
